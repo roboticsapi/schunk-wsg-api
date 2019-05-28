@@ -1,0 +1,4 @@
+org.roboticsapi.schunk.wsg.extension.WSG50Extension
+org.roboticsapi.schunk.wsg.runtime.extension.SoftRobotWSG50Extension
+org.roboticsapi.schunk.wsg.javarcc.extension.SchunkWsgExtension
+org.roboticsapi.schunk.wsg.collada.extension.WsgColladaExtension
