@@ -1,0 +1,4 @@
+org.roboticsapi.device.schunk.wsg.extension.WsgExtension
+org.roboticsapi.device.schunk.wsg.javarcc.extension.WsgJavaRccExtension
+org.roboticsapi.device.schunk.wsg.runtime.extension.WsgRuntimeExtension
+org.roboticsapi.device.schunk.wsg.visualization.WsgExtension
