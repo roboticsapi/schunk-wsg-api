@@ -60,8 +60,6 @@ public abstract class Wsg50Exception extends GripperException {
 
 	/**
 	 * Returns the error type of this exception.
-	 *
-	 * @return
 	 */
 	public final WSG50Error getError() {
 		return error;
@@ -69,8 +67,6 @@ public abstract class Wsg50Exception extends GripperException {
 
 	/**
 	 * Returns the unique error number of this exception.
-	 *
-	 * @return
 	 */
 	public final int getErrorNumber() {
 		return error.ordinal();
